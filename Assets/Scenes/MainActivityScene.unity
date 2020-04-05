@@ -930,9 +930,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1322280737}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: da8782b09e3369e4d9a91806bc67e2ff, type: 3}
+  m_Script: {fileID: 11500000, guid: 79a5643fc9e90d840acaf1326a0b120f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TextBox: {fileID: 2034865631}
+  Choice01: {fileID: 216830980}
+  Choice02: {fileID: 11029303}
+  Choice03: {fileID: 795957972}
+  Choice04: {fileID: 1190001514}
+  ChoiceMade: 0
 --- !u!1 &1338068992
 GameObject:
   m_ObjectHideFlags: 0
